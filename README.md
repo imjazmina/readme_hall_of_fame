@@ -13,7 +13,7 @@
 ## 🚀 ¿Cómo participar?
 
 1. Haz un fork de este repositorio.
-2. Crea una carpeta con tu nombre en la carpeta `ejemplos/`.
+2. Crea una carpeta con tu nombre en la carpeta.
 3. Agrega tu `README.md` y cualquier recurso (imágenes, etc.).
 4. Haz un Pull Request para que se agregue tu aporte.
 
