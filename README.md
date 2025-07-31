@@ -16,6 +16,7 @@
 2. Crea una carpeta con tu nombre en la carpeta.
 3. Agrega tu `README.md` y cualquier recurso (imágenes, etc.).
 4. Haz un Pull Request para que se agregue tu aporte.
+5. Dale ⭐.
 
 > ¡Recuerda incluir tu user de GitHub para que te sigan! 💬
 
